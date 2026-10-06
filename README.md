@@ -73,7 +73,7 @@ System.out.println("Size: " + roster.size());
 - Maintains insertion order
 - Accessible by index
 - Allows duplicates
-- **Objects only** — use wrappers (`Integer`, not `int`)
+- **Objects only** - use wrappers (`Integer`, not `int`)
 
 ### Array vs. ArrayList
 
